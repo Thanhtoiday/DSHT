@@ -7,7 +7,7 @@ using namespace std;
 
 
 
-// them chuc nang a
+// sua chuc nang a
 
 class DSHT;
 class HT
