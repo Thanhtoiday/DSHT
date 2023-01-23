@@ -5,6 +5,10 @@ using namespace std;
 
 #define pi 3.14
 
+
+
+// them chuc nang a
+
 class DSHT;
 class HT
 {
