@@ -6,6 +6,7 @@ using namespace std;
 
 //them chuc nang 1
 
+//them chuc nang 2
 
 class BN{
     string ten;
