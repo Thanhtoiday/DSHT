@@ -4,6 +4,9 @@
 
 using namespace std;
 
+//them chuc nang 1
+
+
 class BN{
     string ten;
     int ma;
