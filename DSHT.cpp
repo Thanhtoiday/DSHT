@@ -6,6 +6,7 @@ using namespace std;
 #define pi 3.14
 
 class PHT;
+class SDT;
 
 // sua chuc nang a
 
