@@ -5,7 +5,7 @@ using namespace std;
 
 #define pi 3.14
 
-
+class SDT;
 
 // sua chuc nang a
 
