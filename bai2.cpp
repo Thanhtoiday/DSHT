@@ -4,6 +4,9 @@
 
 using namespace std;
 
+int xyz(){
+    return 2;
+}
 //them chuc nang 1
 
 //them chuc nang 2
