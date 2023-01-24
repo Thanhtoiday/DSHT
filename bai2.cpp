@@ -4,6 +4,10 @@
 
 using namespace std;
 
+int abc() {
+    return 1;
+}
+
 //them chuc nang 1
 
 //them chuc nang 2
